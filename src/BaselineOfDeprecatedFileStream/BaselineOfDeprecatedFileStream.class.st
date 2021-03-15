@@ -10,6 +10,6 @@ BaselineOfDeprecatedFileStream >> baseline: spec [
 	<baseline>
 	spec for: #common do: [ 
 		spec
-			package: 'DeprecatedFileSystem';
-			group: 'default' with: #( 'DeprecatedFileSystem' ) ]
+			package: 'DeprecatedFileStream';
+			group: 'default' with: #( 'DeprecatedFileStream' ) ]
 ]
